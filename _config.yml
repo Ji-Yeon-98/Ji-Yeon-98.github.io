@@ -107,7 +107,7 @@ author:
   name             : "Ji Yeon"
   avatar           : # path of avatar image, e.g. "/assets/dog.jpg"
   bio              : "Android Developer"
-  location         : "Somewhere"
+  # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
